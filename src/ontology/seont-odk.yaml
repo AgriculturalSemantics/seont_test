@@ -1,0 +1,9 @@
+id: seont
+title: Social economic ontology
+github_org: AgriculturalSemantics
+repo: seont
+import_group:
+  products:
+    - id: ro
+    - id: bfo
+    - id: pato
